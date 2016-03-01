@@ -1,0 +1,28 @@
+name: Boomers Rock
+favicon: null
+layout_spectrum: 0.07162717613391578
+typography_spectrum: 0.88073745300062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7327334985602647
+  lightness: 0.3669691001996398
+  saturation: 0.6391314419452101
+  rhythmicContrast: 0.9182031073141843
+purpose: []
