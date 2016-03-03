@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Boomers Rock]]></title>
+        <description><![CDATA[Boomers Rock]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 21:47:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boomers – Put Your Activist Hats Back On!]]></title>
+            <description><![CDATA[<article><h1>Boomers – Put Your Activist Hats Back On!</h1><p>One thing we boomers did really well in our 20’s was DEMONSTRATING!  How about if  you get really psyched about doing something for an important cause right here, right now in 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ebae4d1bd0989c6eb58d7eed801f61eec677135.jpg"></article>]]></description>
+            <link>undefinedboomers-put-your-activist-hats-back-on/index.html</link>
+            <guid isPermaLink="false">618d448e-7d02-41c8-b253-2ca71a2a1dba</guid>
+            <pubDate>Thu, 03 Mar 2016 21:47:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
