@@ -1,6 +1,6 @@
 name: Boomers Rock
 favicon: null
-layout_spectrum: 0.85154
+layout_spectrum: 0.50105
 typography_spectrum: 0.48331
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.8125
   lightness: 0.375
   saturation: 0.75
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
